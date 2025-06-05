@@ -1,5 +1,5 @@
 # Laboratorio №2 (2 partes)
-# Web de Cantantes Laboratorio №2 (2 partes)
+# Web de Cantantes
 
 ## Instrucciones
 
@@ -19,7 +19,7 @@
 ## Estructura sugerida del proyecto
 
 ```
-web-cantantes/
+src/
 ├── index.html
 ├── singers.html
 ├── about.html
